@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=poppins:wght@300;400;500;600;700;800;900&display=swap");
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins",sans-serif;
+}
+aside{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin-left: 10%;
+    margin-top: -3%;
+
+}
+article img{
+    width: 355px;
+    height: 340px;
+    margin-top: 5px;
+    margin-left: -231.5%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.wrapper{
+    width: 380px;
+    background: #4b5a6cf7;
+    border: 2px solid rgba(255,225,255,.2);
+    backdrop-filter: blur(20px);
+    box-shadow:0 0 10px rgba(0,0,0,0.2) ;
+    color: #fff;
+    margin-left: -48%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 30px 40px;
+    margin-right: -40%;
+}
+.wrapper h1 {
+    font-size: 36px;
+    text-align: center;
+}
+.wrapper .input-box {
+    width: 100%;
+    height: 40px;
+    position: relative;
+    margin: 30px 0;
+}
+.input-box input {
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    /* border: 2px solid rgba(255,225,255,.2); */
+    /* border-radius: 40px; */
+    border-bottom: 1px solid white;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 45px 20px 20px;
+}
+.input-box input::placeholder {
+    color: #fff;
+}
+.input-box i {
+position: absolute;
+right: 20px;
+top: 50%;
+transform: translateY(-50%);
+font-size: 20px;
+}
+.wrapper .remember-forget {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+    margin: -15px 0 15px;
+}
+.remember-forget label input {
+    accent-color: #fff;
+    margin-right: 3px;
+}
+.remember-forget a {
+    color: #59affaf6;
+    text-decoration: none;
+}
+.remember-forget a:hover{
+    text-decoration: underline;
+
+}
+.wrapper .btn {
+    width: 100%;
+    height: 45px;
+    background: #4ADDEC;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1) ;
+    cursor: pointer;
+    font-size: 16px;
+    /* color: white; */
+    font-weight: 600;
+}
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+footer{
+    display: flex;
+    background-color: #4E9FE3;
+}
+footer div{
+    margin-left: 25%;
+}
+#contactUs{
+    margin-left: 78%;
+
+}
+section aside img{
+    width: 20px;
+    height: 20px;
+    margin-top: 28px;
+    margin-right: 8%;
+}
+section aside h5{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 15%;
+}
+#followUs {
+    margin-top: -8px;
+    text-align: center;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 16px;
+}#Contact {
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    margin-left: -22%;
+}
+#social-media{
+    display: flex;
+}
+section a img{
+    width: 30px;
+    height: 30px;
+    margin-left: 16%;
+}
+section a{
+    margin-left: 12%;
+}
+#div12 #logo1{
+    width: 160px;
+    height: 160px;
+    margin-top: 4px;
+    margin-left: 20%;
+}
+h4{
+    margin-top: 55%;
+    margin-left: -34%;
+    font-size: 13px;
+    font-weight: lighter;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4 b{
+    color: white;
+    font-size: 18px;
+    font-weight: light;
+}
